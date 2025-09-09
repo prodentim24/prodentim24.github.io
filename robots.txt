@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://prodentim-website.com/sitemap.xml
+
+# Disallow admin areas (if any)
+Disallow: /admin/
+Disallow: /private/
+
+# Allow search engines to crawl all content
+Allow: /article/
+Allow: /legal/
+
+# Crawl delay (optional)
+Crawl-delay: 1
+
